@@ -82,6 +82,7 @@ A place of knowedge
 - [Pacu - AWS Exploitation framework](https://github.com/RhinoSecurityLabs/pacu)
 - [AWS Security tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 - [prowler](https://github.com/prowler-cloud/prowler)
+- [Local AWS for testing](https://github.com/floci-io/floci)
 
 ### OSINT
 
